@@ -66,5 +66,5 @@ node_modules/
 .env
 
 
-/.idea
-/.cache
+.idea
+.cache
