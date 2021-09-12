@@ -1,0 +1,22 @@
+{
+  "name": "js-site-constructor",
+  "version": "1.0.0",
+  "description": "JavaScript website constructor",
+  "main": "src/index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 4200 --open",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "keywords": [
+    "js",
+    "html",
+    "css",
+    "parcel",
+    "node.js"
+  ],
+  "author": "Azamat <az1k3@outlook.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
